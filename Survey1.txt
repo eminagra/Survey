@@ -1,0 +1,11 @@
+1. Do you like pasta over pizza?
+- Yes 
+- No
+
+2. Do you like desserts over fruits?
+- Yes 
+- No
+
+3. Do you like soda over fresh pressed juices?
+- Yes
+- No
